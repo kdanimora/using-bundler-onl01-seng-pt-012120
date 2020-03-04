@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem "rspec"
-gem "sinatra"
+gem "sinatra" 
 gem "octokit", "~> 2.0"
 gem "hashie"
 
